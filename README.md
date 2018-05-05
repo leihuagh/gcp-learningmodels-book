@@ -3,9 +3,7 @@ Building Machine Learning and Deep Learning Models on Google Cloud Platform
 
 This repository contains the chapter code samples for the **upcoming** book *Building Machine Learning and Deep Learning Models on Google Cloud Platform* published by Apress.  This book is a compendium to assist the beginner who knows absolutely nothing about machine learning and deep learning to be able to learn how to build learning models and to do so by leveraging the computational resources of Google Cloud Platform.
 
-![gcp-ml-dl-book](https://ekababisong.org/assets/books/BisongHiRes.jpg | width=100)
-
-
+<img src="https://ekababisong.org/assets/books/BisongHiRes.jpg" alt="gcp-ml-dl-book" width="50%" height="50%">
 
 ## Recommended Usage
 The recommended way to work with the notebooks in this repository is through the Google Datablab cloud instance.
